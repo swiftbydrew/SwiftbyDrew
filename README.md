@@ -3,7 +3,7 @@
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="80" width="80"/>    Hi, welcome to my github.
 </h1> 
 </div>
-I'm Andrew Castro 😉, iOS Developer 👨🏻‍💻 from Brazil.
+<b>I'm Andrew Castro 😉, iOS Developer 👨🏻‍💻 from Brazil.</b>
 
 ### How to reach me: 
 <a href="mailto: swiftbydrew@gmail.com">
